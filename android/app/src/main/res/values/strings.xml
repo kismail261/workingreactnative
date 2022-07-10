@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">sfy</string>
+    <string name="server_client_id">479328453795-bfkscpfcl53a8eqj20k99ov8p5s7h1bf.apps.googleusercontent.com</string>
+    <string name="facebook_app_id">3308184402742014</string>
+    <string name="fb_login_protocol_scheme">fb3308184402742014</string>
+</resources>

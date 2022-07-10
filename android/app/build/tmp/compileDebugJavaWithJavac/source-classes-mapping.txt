@@ -1,0 +1,14 @@
+com/sfytest/ReactNativeFlipper.java
+ com.sfytest.ReactNativeFlipper
+ com.sfytest.ReactNativeFlipper$1
+ com.sfytest.ReactNativeFlipper$2
+ com.sfytest.ReactNativeFlipper$2$1
+com/sfytest/MainActivity.java
+ com.sfytest.MainActivity
+com/sfytest/BuildConfig.java
+ com.sfytest.BuildConfig
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/sfytest/MainApplication.java
+ com.sfytest.MainApplication
+ com.sfytest.MainApplication$1
